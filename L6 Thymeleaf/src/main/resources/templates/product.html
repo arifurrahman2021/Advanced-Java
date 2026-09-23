@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Product</title>
+</head>
+<body>
+<h1>Order Product</h1>
+<form th:action="@{/ordered-product}" method="post">
+  <label>Name</label><br>
+  <input type="text" name="productName"><br><br>
+
+  <label>Quantity</label><br>
+  <input type="number" name="quantity"><br><br>
+
+  <label>Address</label><br>
+  <input type="text" name="deliveryAddress"><br><br>
+
+  <button type="submit">Order</button><br><br>
+  <hr>
+</form>
+<br>
+<h1>Request Product</h1>
+<form th:action="@{/request-product}" method="post">
+  <label>Name</label><br>
+  <input type="text" name="requestedProductName"><br><br>
+
+  <label>Quantity</label><br>
+  <input type="number" name="requestedProductQuantity"><br><br>
+
+  <label>Description</label><br>
+  <input type="text" name="requestedProductDescription"><br><br>
+
+  <button type="submit">Request</button>
+</form>
+
+</body>
+</html>

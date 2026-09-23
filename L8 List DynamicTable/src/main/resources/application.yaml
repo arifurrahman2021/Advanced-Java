@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: L8 List DynamicTable
+logging:
+  level:
+    root: info
+  file:
+    name: product.log

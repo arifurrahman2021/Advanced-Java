@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: L6 Thymeleaf
+logging:
+  level:
+    root: info
+  file:
+    name: info.log

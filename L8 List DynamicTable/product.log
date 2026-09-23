@@ -1,0 +1,92 @@
+2026-08-01T14:42:38.269+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : Starting L8ListDynamicTableApplication using Java 25.0.3 with PID 10342 (/Users/alvi/Advance Java/Class Lectures/L8 List DynamicTable/target/classes started by alvi in /Users/alvi/Advance Java/Class Lectures/L8 List DynamicTable)
+2026-08-01T14:42:38.271+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : No active profile set, falling back to 1 default profile: "default"
+2026-08-01T14:42:38.297+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-08-01T14:42:38.297+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-08-01T14:42:38.612+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-08-01T14:42:38.617+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-08-01T14:42:38.617+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-08-01T14:42:38.626+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 329 ms
+2026-08-01T14:42:38.736+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-08-01T14:42:38.738+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : Started L8ListDynamicTableApplication in 0.706 seconds (process running for 0.949)
+2026-08-01T14:42:44.590+06:00  INFO 10342 --- [L8 List DynamicTable] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 6 class path changes (0 additions, 0 deletions, 6 modifications)
+2026-08-01T14:42:44.596+06:00  INFO 10342 --- [L8 List DynamicTable] [Thread-1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-08-01T14:42:44.601+06:00  INFO 10342 --- [L8 List DynamicTable] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-08-01T14:42:44.641+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : Starting L8ListDynamicTableApplication using Java 25.0.3 with PID 10342 (/Users/alvi/Advance Java/Class Lectures/L8 List DynamicTable/target/classes started by alvi in /Users/alvi/Advance Java/Class Lectures/L8 List DynamicTable)
+2026-08-01T14:42:44.642+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : No active profile set, falling back to 1 default profile: "default"
+2026-08-01T14:42:44.683+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-08-01T14:42:44.684+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-08-01T14:42:44.684+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-08-01T14:42:44.686+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 44 ms
+2026-08-01T14:42:44.709+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-08-01T14:42:44.710+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : Started L8ListDynamicTableApplication in 0.078 seconds (process running for 6.921)
+2026-08-01T14:42:44.711+06:00  INFO 10342 --- [L8 List DynamicTable] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-08-01T14:42:48.909+06:00  INFO 10342 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-08-01T14:42:48.910+06:00  INFO 10342 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-08-01T14:42:48.911+06:00  INFO 10342 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2026-08-01T14:43:07.723+06:00  INFO 10342 --- [L8 List DynamicTable] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-08-01T14:43:07.724+06:00  INFO 10342 --- [L8 List DynamicTable] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-08-01T14:43:09.117+06:00  INFO 10359 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : Starting L8ListDynamicTableApplication using Java 25.0.3 with PID 10359 (/Users/alvi/Advance Java/Class Lectures/L8 List DynamicTable/target/classes started by alvi in /Users/alvi/Advance Java/Class Lectures/L8 List DynamicTable)
+2026-08-01T14:43:09.117+06:00  INFO 10359 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : No active profile set, falling back to 1 default profile: "default"
+2026-08-01T14:43:09.132+06:00  INFO 10359 --- [L8 List DynamicTable] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-08-01T14:43:09.132+06:00  INFO 10359 --- [L8 List DynamicTable] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-08-01T14:43:09.376+06:00  INFO 10359 --- [L8 List DynamicTable] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-08-01T14:43:09.382+06:00  INFO 10359 --- [L8 List DynamicTable] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-08-01T14:43:09.382+06:00  INFO 10359 --- [L8 List DynamicTable] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-08-01T14:43:09.392+06:00  INFO 10359 --- [L8 List DynamicTable] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 259 ms
+2026-08-01T14:43:09.495+06:00  INFO 10359 --- [L8 List DynamicTable] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-08-01T14:43:09.497+06:00  INFO 10359 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : Started L8ListDynamicTableApplication in 0.522 seconds (process running for 0.724)
+2026-08-01T14:43:12.663+06:00  INFO 10359 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-08-01T14:43:12.663+06:00  INFO 10359 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-08-01T14:43:12.665+06:00  INFO 10359 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2026-08-01T14:44:04.827+06:00  INFO 10359 --- [L8 List DynamicTable] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-08-01T14:44:04.830+06:00  INFO 10359 --- [L8 List DynamicTable] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-08-01T14:44:05.786+06:00  INFO 10371 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : Starting L8ListDynamicTableApplication using Java 25.0.3 with PID 10371 (/Users/alvi/Advance Java/Class Lectures/L8 List DynamicTable/target/classes started by alvi in /Users/alvi/Advance Java/Class Lectures/L8 List DynamicTable)
+2026-08-01T14:44:05.787+06:00  INFO 10371 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : No active profile set, falling back to 1 default profile: "default"
+2026-08-01T14:44:05.806+06:00  INFO 10371 --- [L8 List DynamicTable] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-08-01T14:44:05.806+06:00  INFO 10371 --- [L8 List DynamicTable] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-08-01T14:44:06.050+06:00  INFO 10371 --- [L8 List DynamicTable] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-08-01T14:44:06.055+06:00  INFO 10371 --- [L8 List DynamicTable] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-08-01T14:44:06.056+06:00  INFO 10371 --- [L8 List DynamicTable] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-08-01T14:44:06.065+06:00  INFO 10371 --- [L8 List DynamicTable] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 258 ms
+2026-08-01T14:44:06.168+06:00  INFO 10371 --- [L8 List DynamicTable] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-08-01T14:44:06.170+06:00  INFO 10371 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : Started L8ListDynamicTableApplication in 0.521 seconds (process running for 0.724)
+2026-08-01T14:44:08.746+06:00  INFO 10371 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-08-01T14:44:08.746+06:00  INFO 10371 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-08-01T14:44:08.747+06:00  INFO 10371 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2026-08-01T14:45:10.943+06:00  INFO 10371 --- [L8 List DynamicTable] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-08-01T14:45:10.945+06:00  INFO 10371 --- [L8 List DynamicTable] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-08-01T14:45:11.870+06:00  INFO 10383 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : Starting L8ListDynamicTableApplication using Java 25.0.3 with PID 10383 (/Users/alvi/Advance Java/Class Lectures/L8 List DynamicTable/target/classes started by alvi in /Users/alvi/Advance Java/Class Lectures/L8 List DynamicTable)
+2026-08-01T14:45:11.871+06:00  INFO 10383 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : No active profile set, falling back to 1 default profile: "default"
+2026-08-01T14:45:11.888+06:00  INFO 10383 --- [L8 List DynamicTable] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-08-01T14:45:11.888+06:00  INFO 10383 --- [L8 List DynamicTable] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-08-01T14:45:12.114+06:00  INFO 10383 --- [L8 List DynamicTable] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-08-01T14:45:12.119+06:00  INFO 10383 --- [L8 List DynamicTable] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-08-01T14:45:12.119+06:00  INFO 10383 --- [L8 List DynamicTable] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-08-01T14:45:12.128+06:00  INFO 10383 --- [L8 List DynamicTable] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 240 ms
+2026-08-01T14:45:12.230+06:00  INFO 10383 --- [L8 List DynamicTable] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-08-01T14:45:12.232+06:00  INFO 10383 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : Started L8ListDynamicTableApplication in 0.489 seconds (process running for 0.685)
+2026-08-01T14:45:16.402+06:00  INFO 10383 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-08-01T14:45:16.402+06:00  INFO 10383 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-08-01T14:45:16.403+06:00  INFO 10383 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2026-08-01T14:45:26.027+06:00  INFO 10383 --- [L8 List DynamicTable] [http-nio-8080-exec-5] c.g.listdynamictable.ProductController   : Added product {}Product(id=99, name=Victoria Cook, quantity=44, price=604.0)
+2026-08-01T14:46:25.771+06:00  INFO 10383 --- [L8 List DynamicTable] [http-nio-8080-exec-1] c.g.listdynamictable.ProductController   : Added product {}Product(id=16, name=Malik Mckee, quantity=33, price=978.0)
+2026-08-01T14:46:54.039+06:00  INFO 10383 --- [L8 List DynamicTable] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-08-01T14:46:54.042+06:00  INFO 10383 --- [L8 List DynamicTable] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-08-01T14:46:55.011+06:00  INFO 10401 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : Starting L8ListDynamicTableApplication using Java 25.0.3 with PID 10401 (/Users/alvi/Advance Java/Class Lectures/L8 List DynamicTable/target/classes started by alvi in /Users/alvi/Advance Java/Class Lectures/L8 List DynamicTable)
+2026-08-01T14:46:55.012+06:00  INFO 10401 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : No active profile set, falling back to 1 default profile: "default"
+2026-08-01T14:46:55.030+06:00  INFO 10401 --- [L8 List DynamicTable] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-08-01T14:46:55.030+06:00  INFO 10401 --- [L8 List DynamicTable] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-08-01T14:46:55.285+06:00  INFO 10401 --- [L8 List DynamicTable] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-08-01T14:46:55.290+06:00  INFO 10401 --- [L8 List DynamicTable] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-08-01T14:46:55.290+06:00  INFO 10401 --- [L8 List DynamicTable] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-08-01T14:46:55.299+06:00  INFO 10401 --- [L8 List DynamicTable] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 269 ms
+2026-08-01T14:46:55.406+06:00  INFO 10401 --- [L8 List DynamicTable] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-08-01T14:46:55.408+06:00  INFO 10401 --- [L8 List DynamicTable] [restartedMain] c.g.l.L8ListDynamicTableApplication      : Started L8ListDynamicTableApplication in 0.532 seconds (process running for 0.732)
+2026-08-01T14:46:57.268+06:00  INFO 10401 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-08-01T14:46:57.269+06:00  INFO 10401 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-08-01T14:46:57.270+06:00  INFO 10401 --- [L8 List DynamicTable] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2026-08-01T14:47:09.092+06:00  INFO 10401 --- [L8 List DynamicTable] [http-nio-8080-exec-4] c.g.listdynamictable.ProductController   : Added product {}Product(id=100, name=Kenneth Douglas, quantity=42, price=562.0)
+2026-08-01T14:47:32.405+06:00  INFO 10401 --- [L8 List DynamicTable] [http-nio-8080-exec-8] c.g.listdynamictable.ProductController   : Added product {}Product(id=12, name=Melissa Foley, quantity=41, price=563.0)
+2026-08-01T16:02:38.028+06:00  INFO 10401 --- [L8 List DynamicTable] [http-nio-8080-exec-4] c.g.listdynamictable.ProductController   : Added product {}Product(id=68, name=Sonya Peck, quantity=32, price=38.0)
+2026-08-01T17:50:24.600+06:00  INFO 10401 --- [L8 List DynamicTable] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-08-01T17:50:24.604+06:00  INFO 10401 --- [L8 List DynamicTable] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete

@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: L7 Validation
+logging:
+  level:
+    root: info
+  file:
+    name: productInfo.log

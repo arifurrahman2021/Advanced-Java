@@ -1,0 +1,64 @@
+2026-07-31T22:48:23.401+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] c.g.thymeleaf.L6ThymeleafApplication     : Starting L6ThymeleafApplication using Java 25.0.3 with PID 7689 (/Users/alvi/Advance Java/Class Lectures/L6 Thymeleaf/target/classes started by alvi in /Users/alvi/Advance Java/Class Lectures/L6 Thymeleaf)
+2026-07-31T22:48:23.402+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] c.g.thymeleaf.L6ThymeleafApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-07-31T22:48:23.421+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-07-31T22:48:23.421+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-07-31T22:48:23.663+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-07-31T22:48:23.669+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-07-31T22:48:23.669+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-07-31T22:48:23.679+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 258 ms
+2026-07-31T22:48:23.790+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-07-31T22:48:23.792+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] c.g.thymeleaf.L6ThymeleafApplication     : Started L6ThymeleafApplication in 0.536 seconds (process running for 0.779)
+2026-07-31T22:48:32.260+06:00  INFO 7689 --- [L6 Thymeleaf] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 6 class path changes (0 additions, 0 deletions, 6 modifications)
+2026-07-31T22:48:32.263+06:00  INFO 7689 --- [L6 Thymeleaf] [Thread-1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-31T22:48:32.266+06:00  INFO 7689 --- [L6 Thymeleaf] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-07-31T22:48:32.295+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] c.g.thymeleaf.L6ThymeleafApplication     : Starting L6ThymeleafApplication using Java 25.0.3 with PID 7689 (/Users/alvi/Advance Java/Class Lectures/L6 Thymeleaf/target/classes started by alvi in /Users/alvi/Advance Java/Class Lectures/L6 Thymeleaf)
+2026-07-31T22:48:32.295+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] c.g.thymeleaf.L6ThymeleafApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-07-31T22:48:32.334+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-07-31T22:48:32.334+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-07-31T22:48:32.334+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-07-31T22:48:32.337+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 41 ms
+2026-07-31T22:48:32.358+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-07-31T22:48:32.359+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] c.g.thymeleaf.L6ThymeleafApplication     : Started L6ThymeleafApplication in 0.073 seconds (process running for 9.347)
+2026-07-31T22:48:32.360+06:00  INFO 7689 --- [L6 Thymeleaf] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-07-31T22:48:40.971+06:00  INFO 7689 --- [L6 Thymeleaf] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-31T22:48:40.972+06:00  INFO 7689 --- [L6 Thymeleaf] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-07-31T22:48:40.973+06:00  INFO 7689 --- [L6 Thymeleaf] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2026-07-31T22:48:52.322+06:00  INFO 7689 --- [L6 Thymeleaf] [http-nio-8080-exec-2] com.github.thymeleaf.ProductController   : ordered product OrderProduct(productName=asdf, quantity=null, deliveryAddress=asdfds) 
+2026-07-31T22:49:12.005+06:00  WARN 7689 --- [L6 Thymeleaf] [http-nio-8080-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2026-07-31T22:52:22.724+06:00  INFO 7689 --- [L6 Thymeleaf] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-31T22:52:22.726+06:00  INFO 7689 --- [L6 Thymeleaf] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-07-31T22:52:24.086+06:00  INFO 7738 --- [L6 Thymeleaf] [restartedMain] c.g.thymeleaf.L6ThymeleafApplication     : Starting L6ThymeleafApplication using Java 25.0.3 with PID 7738 (/Users/alvi/Advance Java/Class Lectures/L6 Thymeleaf/target/classes started by alvi in /Users/alvi/Advance Java/Class Lectures/L6 Thymeleaf)
+2026-07-31T22:52:24.087+06:00  INFO 7738 --- [L6 Thymeleaf] [restartedMain] c.g.thymeleaf.L6ThymeleafApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-07-31T22:52:24.104+06:00  INFO 7738 --- [L6 Thymeleaf] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-07-31T22:52:24.104+06:00  INFO 7738 --- [L6 Thymeleaf] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-07-31T22:52:24.334+06:00  INFO 7738 --- [L6 Thymeleaf] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-07-31T22:52:24.340+06:00  INFO 7738 --- [L6 Thymeleaf] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-07-31T22:52:24.340+06:00  INFO 7738 --- [L6 Thymeleaf] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-07-31T22:52:24.350+06:00  INFO 7738 --- [L6 Thymeleaf] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 246 ms
+2026-07-31T22:52:24.453+06:00  INFO 7738 --- [L6 Thymeleaf] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-07-31T22:52:24.455+06:00  INFO 7738 --- [L6 Thymeleaf] [restartedMain] c.g.thymeleaf.L6ThymeleafApplication     : Started L6ThymeleafApplication in 0.502 seconds (process running for 0.712)
+2026-07-31T22:52:38.066+06:00  INFO 7738 --- [L6 Thymeleaf] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-31T22:52:38.067+06:00  INFO 7738 --- [L6 Thymeleaf] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-07-31T22:52:38.068+06:00  INFO 7738 --- [L6 Thymeleaf] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2026-07-31T22:52:54.146+06:00  INFO 7738 --- [L6 Thymeleaf] [http-nio-8080-exec-2] com.github.thymeleaf.ProductController   : ordered product OrderProduct(productName=apple, quantity=null, deliveryAddress=sanakoir) 
+2026-07-31T22:53:14.680+06:00  INFO 7738 --- [L6 Thymeleaf] [http-nio-8080-exec-4] com.github.thymeleaf.ProductController   : Product Product: RequestProduct(requestedProductName=orange, requestedProductQuantity=8, requestedProductDescription=need orange)
+2026-07-31T22:54:16.895+06:00  INFO 7738 --- [L6 Thymeleaf] [http-nio-8080-exec-7] com.github.thymeleaf.ProductController   : ordered product OrderProduct(productName=apple, quantity=null, deliveryAddress=sanakoir) 
+2026-07-31T22:54:40.945+06:00  INFO 7738 --- [L6 Thymeleaf] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-31T22:54:40.948+06:00  INFO 7738 --- [L6 Thymeleaf] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-07-31T22:54:41.799+06:00  INFO 7766 --- [L6 Thymeleaf] [restartedMain] c.g.thymeleaf.L6ThymeleafApplication     : Starting L6ThymeleafApplication using Java 25.0.3 with PID 7766 (/Users/alvi/Advance Java/Class Lectures/L6 Thymeleaf/target/classes started by alvi in /Users/alvi/Advance Java/Class Lectures/L6 Thymeleaf)
+2026-07-31T22:54:41.800+06:00  INFO 7766 --- [L6 Thymeleaf] [restartedMain] c.g.thymeleaf.L6ThymeleafApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-07-31T22:54:41.817+06:00  INFO 7766 --- [L6 Thymeleaf] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-07-31T22:54:41.818+06:00  INFO 7766 --- [L6 Thymeleaf] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-07-31T22:54:42.054+06:00  INFO 7766 --- [L6 Thymeleaf] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-07-31T22:54:42.059+06:00  INFO 7766 --- [L6 Thymeleaf] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-07-31T22:54:42.059+06:00  INFO 7766 --- [L6 Thymeleaf] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-07-31T22:54:42.068+06:00  INFO 7766 --- [L6 Thymeleaf] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 250 ms
+2026-07-31T22:54:42.169+06:00  INFO 7766 --- [L6 Thymeleaf] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-07-31T22:54:42.171+06:00  INFO 7766 --- [L6 Thymeleaf] [restartedMain] c.g.thymeleaf.L6ThymeleafApplication     : Started L6ThymeleafApplication in 0.505 seconds (process running for 0.715)
+2026-07-31T22:54:49.774+06:00  INFO 7766 --- [L6 Thymeleaf] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-07-31T22:54:49.775+06:00  INFO 7766 --- [L6 Thymeleaf] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-07-31T22:54:49.776+06:00  INFO 7766 --- [L6 Thymeleaf] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2026-07-31T22:54:49.798+06:00  INFO 7766 --- [L6 Thymeleaf] [http-nio-8080-exec-1] com.github.thymeleaf.ProductController   : ordered product OrderProduct(productName=apple, quantity=5, deliveryAddress=asdf) 
+2026-07-31T22:55:11.576+06:00  INFO 7766 --- [L6 Thymeleaf] [http-nio-8080-exec-3] com.github.thymeleaf.ProductController   : Product Product: RequestProduct(requestedProductName=orange, requestedProductQuantity=23, requestedProductDescription=china orange)
+2026-07-31T22:55:20.873+06:00  INFO 7766 --- [L6 Thymeleaf] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-31T22:55:20.876+06:00  INFO 7766 --- [L6 Thymeleaf] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
