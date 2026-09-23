@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Request Product</title>
+</head>
+<body>
+<form method="Post" th:action="${product.id == 0 ? '/add' : '/edit/' + product.id}" th:object="${product}">
+  <label>ID: </label><br>
+    <input type="text" th:field="*{id}">
+    <span th:errors="*{id}" style="color: chocolate"></span><br><br>
+
+  <label>Product Name</label><br>
+  <input type="text" th:field="*{productName}">
+    <span th:errors="*{productName}" style="color: chocolate"></span><br><br>
+
+  <label>Product Description</label><br>
+  <input type="text" th:field="*{productDescription}">
+    <span th:errors="*{productDescription}" style="color: chocolate"></span><br><br>
+
+  <button>Submit</button>
+</form>
+</body>
+</html>
